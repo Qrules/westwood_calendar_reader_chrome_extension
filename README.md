@@ -1,2 +1,2 @@
 # westwood_calendar_reader_chrome_extension
-Calendar reader for the Westwood calendar
+Calendar reader for the Westwood calendar, central daylight time.
